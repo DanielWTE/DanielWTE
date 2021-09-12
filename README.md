@@ -1,16 +1,18 @@
-### Hi there 👋
+# Meddl ! 🎉
 
-<!--
-**DanielWTE/DanielWTE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Daniel Wagner. I'm a Developer living in Salzburg, Austria. 🍻
 
-Here are some ideas to get you started:
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠  Technologies and tools
+
+<a name="learning-now"></a>
+
+
+## 📖  What I am currently learning / improving on
+
+## 🔍  Where to find me
+
+[tech_tools_anchor]: #bonjour--
+[learning_now_anchor]: #learning-now
+[learning_next_anchor]: #learning-next

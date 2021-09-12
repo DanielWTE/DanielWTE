@@ -1,5 +1,7 @@
 # Meddl ! 🎉
 
+[![Visits Badge](https://badges.pufler.dev/visits/DanielWTE/DanielWTE)](https://badges.pufler.dev)
+
 My name is Daniel Wagner. I'm a Developer living in Salzburg, Austria. 🍻
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
@@ -12,6 +14,7 @@ My name is Daniel Wagner. I'm a Developer living in Salzburg, Austria. 🍻
 ## 📖  What I am currently learning / improving on
 
 ## 🔍  Where to find me
+
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now

@@ -23,4 +23,6 @@
 <br />
 <p>🪄 Other </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielWTE&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" />
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielWTE&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" />
+</a>

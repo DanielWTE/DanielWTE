@@ -2,10 +2,10 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=DanielWTE&show_icons=true&theme=radical" />
 </a>
 
-<p>🧾 About Me </p>
+<p>About Me </p>
 <ul>
   <li>Mainly Used: TypeScript, PHP, Python</li>
-  <li>☄Projects: <a href="https://dwag.me/" target="_blank">Daniel's Projects</a></li>
+  <li>Projects: <a href="https://dwag.me/" target="_blank">Daniel's Projects</a></li>
   <li>Languages: English, German</li>
 </ul>
 

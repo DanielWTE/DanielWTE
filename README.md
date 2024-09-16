@@ -6,7 +6,6 @@
 <ul>
   <li>Mainly Used: TypeScript, PHP, Python</li>
   <li>Projects: <a href="https://dwag.me/" target="_blank">Daniel's Projects</a></li>
-  <li>Languages: English, German</li>
 </ul>
 
 <p>Skills </p>
@@ -22,8 +21,3 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="20" />
 </div>
 <br />
-<p>Other </p>
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielWTE&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" />
-</a>

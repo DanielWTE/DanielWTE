@@ -5,7 +5,7 @@
 <p>About Me </p>
 <ul>
   <li>Mainly Used: TypeScript, PHP, Python</li>
-  <li>Projects: <a href="https://dwag.me/" target="_blank">Daniel's Projects</a></li>
+  <li>Projects: <a href="https://dwag.me/" target="_blank">My website</a></li>
 </ul>
 
 <p>Skills </p>

@@ -1,23 +1,3 @@
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=DanielWTE&show_icons=true&theme=radical" />
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=DanielWTE&show_icons=true&theme=radical" width="400px" />
 
-<p>About Me </p>
-<ul>
-  <li>Mainly Used: TypeScript, PHP, Python</li>
-  <li>Projects: <a href="https://dwag.me/" target="_blank">My website</a></li>
-</ul>
-
-<p>Skills </p>
-
-<div>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="20" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="20" />
-</div>
-<br />
+Website: [dwag.me](https://dwag.me)
